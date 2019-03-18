@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">ClientV3</string>
+    <string name="USERNAME_STR">Username</string>
+    <string name="PASSWORD_STR">Password</string>
+    <string name="LOGIN_STR">Login</string>
+    <string name="SIGN_UP_STR">Sign Up</string>
+    <string name="LOGIN_PROMPT_STR">Enter your username and password</string>
+    <string name="LOGIN_SUCCESS">Login Successful</string>
+    <string name="KEY_EMAIL">email</string>
+    <string name="LOGIN_FAILED">Invalid Username or Password</string>
+    <string name="TAG_SUCCESS">SUCCESS</string>
+    <string name="SIGN_UP_PROMPT">Enter your information here:</string>
+    <string name="FIRST_NAME_STR">First name</string>
+    <string name="LAST_NAME_STR">Last name</string>
+    <string name="EMAIL_STR">E-mail</string>
+    <string name="SUBMIT_STR">Submit</string>
+    <string name="MY_ACCOUNT_STR">My Account</string>
+    <string name="LOG_OUT_STR">Log Out</string>
+    <string name="ID_LABEL">ID:</string>
+    <string name="EMAIL_LABEL">Email:</string>
+    <string name="FIRST_NAME_KEY">firstName</string>
+    <string name="LAST_NAME_KEY">lastName</string>
+    <string name="ID_KEY">id</string>
+    <string name="RESULT_TAG">result</string>
+    <string name="EDIT_TXT">Edit</string>
+    <string name="LAST_NAME_LABEL">Last Name:</string>
+    <string name="FIRST_NAME_LABEL">First Name:</string>
+    <string name="PASSWORD_LABEL">Password:</string>
+    <string name="PASSWORD_KEY">password</string>
+    <string name="NEW_REQUEST_STR">New Request</string>
+    <string name="TITLE_STR">Title</string>
+    <string name="DESCRIPTION_STR">Description</string>
+    <string name="TITLE_KEY">title</string>
+    <string name="DESCRIPTION_KEY">description</string>
+    <string name="REQUEST_SUCCESS_STR">Request successfully added</string>
+    <string name="REQUEST_ID">requestID</string>
+    <string name="DELETE_STRING">Delete</string>
+    <string name="USER_ID_KEY">userId</string>
+    <string name="RESPONSES">Responses</string>
+    <string name="RESPONDER_ID_KEY">responderId</string>
+    <string name="RESPONSE_ID">responseId</string>
+    <string name="CONTRACTOR_FIRST_NAME_KEY">contractorFirstName</string>
+    <string name="CONTRACTOR_LAST_NAME_KEY">contractorLastName</string>
+    <string name="CONTRACTOR_ID_KEY">contractorId</string>
+    <string name="REVIEWS">Reviews</string>
+    <string name="CATAGORY_TITLE">Category:</string>
+    
+    <string-array name="categories">
+        <item>Select:</item>
+        <item>Contracting</item>
+        <item>Tutoring</item>
+        <item>Landscaping</item>
+        <item>Repairs</item>
+        <item>Plumbing</item>
+    </string-array>
+</resources>
